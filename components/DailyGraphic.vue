@@ -78,9 +78,8 @@ export default {
             },
           ],
         }
+        this.variation = this.dollarPrices[0].valor - this.dollarPrices[1].valor
       }
-      console.log(this.dollarPrices[0].valor, this.dollarPrices[1].valor)
-      this.variation = this.dollarPrices[0].valor - this.dollarPrices[1].valor
       // console.log(this.dollarPrices[0].valor - this.dollarPrices[1].valor)
     },
   },
