@@ -1,5 +1,5 @@
 # Admetricks
-This is a project that shows the daily dolar price variation, expressed in 'pesos chilenos' (CLP)
+This is a project that shows the daily dollar price variation, expressed in 'pesos chilenos' (CLP)
 ## Set Up
 First, clone the project from the following repository
 ```bash
